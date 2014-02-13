@@ -1,0 +1,1 @@
+{"license": "", "description": "A strip down version of Tobias Markus&#39;s Center SVG. (No options)", "contributors": [], "author": "danieldesira", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev6", "lib": "lib", "fullName": "Center SVG Lite", "main": "main", "id": "jid0-UMbN0nrHXhBBokb9WIBG8Ozj2Rc", "name": "center-svg-lite"}
